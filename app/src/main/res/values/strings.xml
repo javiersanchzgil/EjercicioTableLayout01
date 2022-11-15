@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioTableLayout01</string>
+    <string name="edit_profile" >Edit Profile</string>
+    <string name="following">Following</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="nombre">Nombre</string>
+    <string name="followers">Followers</string>
+</resources>
